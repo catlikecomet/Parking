@@ -1,2 +1,5 @@
 
+fsquid:UselessImportCheck"6Remove this unused import 'com.company.Garage.Garage'.(æÃ·Ðûÿÿÿÿ8ÝüðÙå-
+¤squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(´×ÈÖþÿÿÿÿ8¡±€Úå-
+Ÿsquid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Äá·‰8Ã„óÙå-
 rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ë¥£š

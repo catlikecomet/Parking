@@ -25,3 +25,9 @@ W
 'src/com/company/Garage/SecondFloor.java,1/a/1ae799ab83f54dafeb46ff11cac0ede6c3766704
 I
 src/com/company/Main.java,4/a/4a831b10439099d44774d0ccc387e808deffaeab
+W
+'src/com/company/Garage/CanFitLarge.java,2/8/283d43595ff89026ddde9a8fb70bc52fdd383e91
+W
+'src/com/company/Garage/CanFitSmall.java,a/e/aea719076df97f3d442eb5562fbe682165b6565f
+Q
+!src/com/company/Garage/Floor.java,3/e/3e6984b0531e278fb5114eb051de3d50fc945f24
