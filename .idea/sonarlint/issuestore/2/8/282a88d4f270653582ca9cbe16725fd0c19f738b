@@ -1,7 +1,0 @@
-
-V
-squid:S106"9Replace this use of System.out or System.err by a logger.(á€…‘8Üµ©Úå-
-]squid:UselessImportCheck"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8¤ÒıÕå-
-[
-squid:S106"9Replace this use of System.out or System.err by a logger.(ÁÈâùÿÿÿÿ8Üµ©Úå-
-wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(åÚ½©ùÿÿÿÿ

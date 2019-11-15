@@ -1,6 +1,6 @@
 package com.company.Garage;
 
-public class Floor extends Garage {
+public class Floor extends Garage{
     private int floorNumber;
     private int numberOfSpaces;
 

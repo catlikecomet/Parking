@@ -1,11 +1,11 @@
 package com.company.Garage;
 
-public class Space {
-    private String floor;
+public class Space extends Floor{
+    private int floor;
     private String size;
     private boolean occupied;
 
-    public Space(String currentFloor, String spaceSize){
+    public Space(int currentFloor, String spaceSize){
         floor = currentFloor;
         size = spaceSize;
         occupied = false;
@@ -23,10 +23,10 @@ public class Space {
     public void setSize(String size) {
         this.size = size;
     }
-    public String getFloor() {
+    public int getFloor() {
         return floor;
     }
-    public void setFloor(String floor) {
+    public void setFloor(int floor) {
         this.floor = floor;
     }
 }

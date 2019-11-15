@@ -1,9 +1,6 @@
 package com.company;
 
-import com.company.Garage.FirstFloor;
-import com.company.Garage.GroundFloor;
-import com.company.Garage.SecondFloor;
-import com.company.Garage.Space;
+import com.company.Garage.*;
 import com.company.Vehicles.*;
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -31,9 +28,7 @@ public class Main {
         List<Space> spaces = new ArrayList<>(
 
         );
-        GroundFloor.getSpaces(spaces);
-        FirstFloor.getSpaces(spaces);
-        SecondFloor.getSpaces(spaces);
+        Floor.createSpaces(spaces, 20);
 
     }
 }

@@ -13,16 +13,10 @@ R
 -src/com/company/Vehicles/AbstractVehicle.java,0/1/01f79c8efd9c5f07ec0fa942adfe9e5ecb1c18f4
 U
 %src/com/company/Vehicles/Vehicle.java,1/b/1b9a77700f017b6f234763b73a8b6375a32e3033
-W
-'src/com/company/Garage/GroundFloor.java,2/3/23b7d40c833cfff0e6e591c8b71cf72e2f98c81a
-V
-&src/com/company/Garage/FirstFloor.java,2/8/282a88d4f270653582ca9cbe16725fd0c19f738b
 R
 "src/com/company/Garage/Garage.java,1/e/1eb9d405b102553fc74fbf2c071f1dcf37c16f6a
 Q
 !src/com/company/Garage/Space.java,1/8/1828f3c3b2480fe8b82cddbec7bba5a3fcb9a694
-W
-'src/com/company/Garage/SecondFloor.java,1/a/1ae799ab83f54dafeb46ff11cac0ede6c3766704
 I
 src/com/company/Main.java,4/a/4a831b10439099d44774d0ccc387e808deffaeab
 W
